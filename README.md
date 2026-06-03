@@ -58,5 +58,5 @@ This repository contains my Solidity smart contract projects created while learn
 - Mongoose
 - Thunder Client
 
-* Author
-* Pooja Gehlot
+## Author
+   Pooja Gehlot
