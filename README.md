@@ -58,5 +58,37 @@ This repository contains my Solidity smart contract projects created while learn
 - Mongoose
 - Thunder Client
 
+# Web3 Solidity Learning - Week 3
+This repository contains my Week 3 Solidity practice contracts.
+
+## Contracts
+
+### Staking.sol
+* Stake ETH
+* Withdraw ETH
+* Check Balance
+* Reward Logic
+* Contract Balance Tracking
+
+### PriceFeed.sol
+* Basic Price Feed Contract
+* Oracle Concept Practice
+* ETH Price Retrieval Simulation
+
+## Tools Used
+* Solidity
+* Remix IDE
+* MetaMask
+
+## Learning Outcomes
+* Smart Contract Development
+* Mappings
+* Functions and Modifiers
+* ETH Transfers
+* Price Feed Basics
+* MetaMask Integration
+
+Created as part of my Solidity and Web3 learning journey.
+
 ## Author
    Pooja Gehlot
